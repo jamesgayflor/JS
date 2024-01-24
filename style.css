@@ -10,7 +10,7 @@ display: flex;
 flex-direction: column;
 justify-content: start;}
 
-header{min-height: 12%;
+header{min-height: 10%;
 width: 100%;
 background-color: rgb(55, 89, 153);
 display: flex;
@@ -64,7 +64,7 @@ font-size: 17px;
 main > form{
 background-color: white !important;
 margin-top: 5%;
-width: 85%;
+width: 90%;
 height: 90%;
 align-self: center;
 display: flex;
@@ -97,7 +97,7 @@ font-weight: 700;}
 main > form > input{padding-left: 15px;
 outline:  none;
 border-color: rgba(220, 220, 220, 0.418);
-border-width: 2px;
+border-width: 1px;
 font-family: 'Facebook Sans', sans-serif;
 }
 
