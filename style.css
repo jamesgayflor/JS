@@ -91,7 +91,7 @@ main > form > input{padding-left: 15px;}
 
 main > form > #create_new{background-color: rgb(49, 177, 23);
 border: none;
-width: 70% !important;
+width: 70%;
 align-self: center;}
 
 main > form > #create_new > a{text-decoration: none;
