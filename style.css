@@ -8,8 +8,7 @@ height: 90vh;
 background-color: rgb(241, 242, 246);
 display: flex;
 flex-direction: column;
-justify-content: start;
-overflow: hidden;}
+justify-content: start;}
 
 header{min-height: 12%;
 width: 100%;
