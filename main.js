@@ -9,7 +9,7 @@ login.addEventListener('click', () => {
     const password_value = password.value;
     // ----------------------------
     if (username_value.trim() !== '' && password_value.trim() !== '') {
-        alert(`Username: ${username_value} \nPassword: ${password_value}`);
+        alert("Done");
     }
     else {
         alert("Please enter Username or Password.");
